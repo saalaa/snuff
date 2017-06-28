@@ -1,0 +1,32 @@
+{
+  "name": "snuff",
+  "version": "1.0.0",
+  "description": "TLS powered netcat",
+  "main": "snuff.js",
+  "bin": "snuff.js",
+  "dependencies": {
+    "commander": "^2.10.0",
+    "shelljs": "^0.7.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saalaa/snuff.git"
+  },
+  "keywords": [
+    "nc",
+    "netcat",
+    "secure",
+    "ssl",
+    "tls"
+  ],
+  "author": "Benoit Myard <myardbenoit@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saalaa/snuff/issues"
+  },
+  "homepage": "https://github.com/saalaa/snuff#readme"
+}
